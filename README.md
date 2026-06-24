@@ -2,8 +2,7 @@
 
 <details>
 <summary>NOTICE</summary>
-
-This is an unofficial fork of the min. since developement slowed down we decided to improve min and make it better 
+since developement slowed down we decided to improve min and make it better go to https://github.com/Loulou823/min-improved/ instead
 
 </details>
 
