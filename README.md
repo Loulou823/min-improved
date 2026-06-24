@@ -1,5 +1,12 @@
 # Min
 
+<details>
+<summary>NOTICE</summary>
+
+This is an unofficial fork of the min. since developement slowed down we decided to improve min and make it better 
+
+</details>
+
 Min is a fast, minimal browser that protects your privacy. It includes an interface designed to minimize distractions, and features such as:
 
 - Full-text search for visited pages
